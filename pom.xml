@@ -57,6 +57,11 @@
 				<artifactId>dw-commons-dbsource</artifactId>
 				<version>0.0.3</version>
 			</dependency>
+			<dependency>
+				<groupId>org.developerworld.commons</groupId>
+				<artifactId>dw-commons-cache</artifactId>
+				<version>0.0.3</version>
+			</dependency>
 			<!-- apache commons -->
 			<dependency>
 				<groupId>commons-lang</groupId>
