@@ -10,7 +10,7 @@
 
 	<groupId>org.developerworld.frameworks</groupId>
 	<artifactId>dw-frameworks-parent</artifactId>
-	<version>0.0.7-SNAPSHOT</version>
+	<version>0.0.7</version>
 	<packaging>pom</packaging>
 	<name>dw-frameworks maven pom parent</name>
 	<url>http://www.developerworld.org</url>
@@ -60,7 +60,7 @@
 			<dependency>
 				<groupId>org.developerworld.commons</groupId>
 				<artifactId>dw-commons-cache</artifactId>
-				<version>0.1.3</version>
+				<version>0.1.4</version>
 			</dependency>
 			<!-- apache commons -->
 			<dependency>
