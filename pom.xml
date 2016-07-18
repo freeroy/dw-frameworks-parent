@@ -40,7 +40,7 @@
 			<dependency>
 				<groupId>org.developerworld.commons</groupId>
 				<artifactId>dw-commons-servlet</artifactId>
-				<version>0.0.5</version>
+				<version>0.0.7</version>
 			</dependency>
 			<dependency>
 				<groupId>org.developerworld.commons</groupId>
@@ -114,11 +114,16 @@
 				<artifactId>httpclient</artifactId>
 				<version>4.5.2</version>
 			</dependency>
+			<dependency>
+				<groupId>org.apache.httpcomponents</groupId>
+				<artifactId>httpmime</artifactId>
+				<version>4.5.2</version>
+			</dependency>
 			<!-- jackson -->
 			<dependency>
 				<groupId>com.fasterxml.jackson.core</groupId>
 				<artifactId>jackson-databind</artifactId>
-				<version>2.7.3</version>
+				<version>2.7.5</version>
 			</dependency>
 			<!-- spring framework -->
 			<dependency>
